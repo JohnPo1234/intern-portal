@@ -5,15 +5,15 @@ export default function Resources() {
         <h1>Resources</h1>
 
         <div style={grid}>
-          <a href="PASTE_GOOGLE_DRIVE_LINK" target="_blank" style={card}>
+          <a href="https://drive.google.com/drive/folders/1TtIFk9zC3kI7QwSovvZFgfTrMqC4xG3a?usp=sharing" target="_blank" style={card}>
             📁 Shared Drive
           </a>
 
-          <a href="PASTE_DOC_LINK" target="_blank" style={card}>
+          <a href="https://drive.google.com/drive/folders/1lo9EKVicixH0HPTniMmJ7mC-s3ZYSLdS?usp=drive_link" target="_blank" style={card}>
             📄 Training Docs
           </a>
 
-          <a href="PASTE_GUIDELINES_LINK" target="_blank" style={card}>
+          <a href="https://drive.google.com/drive/folders/1zx-6uCnW3y9NejI4a64Gkjs9tg4bxA23?usp=drive_link" target="_blank" style={card}>
             🎯 Brand Guidelines
           </a>
         </div>
